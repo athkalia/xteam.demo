@@ -1,0 +1,5 @@
+<root>
+    <item name='org.jivesoftware.smack.filter.StanzaFilter boolean accept(org.jivesoftware.smack.packet.Stanza) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

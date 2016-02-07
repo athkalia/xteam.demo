@@ -1,0 +1,8 @@
+<root>
+    <item name='com.crashlytics.android.answers.AnswersEvent T putCustomAttribute(java.lang.String, java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.crashlytics.android.answers.SignUpEvent com.crashlytics.android.answers.SignUpEvent putSuccess(boolean)'>
+      <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

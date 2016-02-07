@@ -1,0 +1,23 @@
+<root>
+    <item name='org.jivesoftware.smack.AbstractXMPPConnection org.jivesoftware.smack.XMPPConnection.FromMode getFromMode()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.Connection org.jivesoftware.smack.SASLAuthentication getSASLAuthentication()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.ConnectionListener void authenticated(org.jivesoftware.smack.XMPPConnection, boolean) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.ConnectionListener void connected(org.jivesoftware.smack.XMPPConnection) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.ConnectionListener void connectionClosedOnError(java.lang.Exception) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.ConnectionListener void reconnectionFailed(java.lang.Exception) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.StanzaListener void processPacket(org.jivesoftware.smack.packet.Stanza) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

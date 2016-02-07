@@ -1,0 +1,5 @@
+<root>
+    <item name='org.xmlpull.v1.XmlPullParser java.lang.String nextText()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

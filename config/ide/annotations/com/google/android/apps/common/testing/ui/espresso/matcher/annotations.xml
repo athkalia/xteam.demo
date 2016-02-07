@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers org.hamcrest.Matcher&lt;android.view.View&gt; withId(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers org.hamcrest.Matcher&lt;android.view.View&gt; withText(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

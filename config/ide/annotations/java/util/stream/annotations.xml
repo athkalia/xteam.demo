@@ -1,0 +1,14 @@
+<root>
+    <item name='java.util.stream.Stream R collect(java.util.stream.Collector&lt;? super T,A,R&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.util.stream.Stream java.util.Optional&lt;T&gt; findFirst()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.util.stream.Stream java.util.stream.Stream&lt;R&gt; map(java.util.function.Function&lt;? super T,? extends R&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.util.stream.Stream java.util.stream.Stream&lt;T&gt; filter(java.util.function.Predicate&lt;? super T&gt;)'>
+      <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

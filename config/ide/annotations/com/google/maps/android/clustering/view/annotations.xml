@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.maps.android.clustering.view.DefaultClusterRenderer void onBeforeClusterRendered(com.google.maps.android.clustering.Cluster&lt;T&gt;, com.google.android.gms.maps.model.MarkerOptions) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

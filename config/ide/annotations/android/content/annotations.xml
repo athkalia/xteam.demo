@@ -1,0 +1,105 @@
+<root>
+    <item name='android.content.BroadcastReceiver void onReceive(android.content.Context, android.content.Intent) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.BroadcastReceiver void onReceive(android.content.Context, android.content.Intent) 1'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProvider android.database.Cursor query(android.net.Uri, java.lang.String[], java.lang.String, java.lang.String[], java.lang.String) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProvider android.net.Uri insert(android.net.Uri, android.content.ContentValues) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProvider int delete(android.net.Uri, java.lang.String, java.lang.String[]) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProvider int update(android.net.Uri, android.content.ContentValues, java.lang.String, java.lang.String[]) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProvider java.lang.String getType(android.net.Uri) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProviderOperation android.content.ContentProviderOperation.Builder newInsert(android.net.Uri)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProviderOperation.Builder android.content.ContentProviderOperation.Builder withValue(java.lang.String, java.lang.Object)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContentProviderOperation.Builder android.content.ContentProviderOperation.Builder withValueBackReference(java.lang.String, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context android.content.ContentResolver getContentResolver()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context android.content.Context getApplicationContext()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context android.content.SharedPreferences getSharedPreferences(java.lang.String, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context android.content.pm.PackageManager getPackageManager()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context android.content.res.AssetManager getAssets()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context android.content.res.Resources getResources()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context java.io.File getFilesDir()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context java.lang.CharSequence getText(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context java.lang.Object getSystemService(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+        <!-- NOTE: Returns null if the name of the desired service does not exist. -->
+    </item>
+    <item name='android.content.Context java.lang.String getPackageName()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context java.lang.String getString(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Context java.lang.String getString(int, java.lang.Object...)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContextWrapper android.content.Context getApplicationContext()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.ContextWrapper java.io.File getDir(java.lang.String, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.DialogInterface.OnCancelListener void onCancel(android.content.DialogInterface) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.DialogInterface.OnClickListener void onClick(android.content.DialogInterface, int) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Intent android.content.Intent createChooser(android.content.Intent, java.lang.CharSequence)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.Intent android.content.Intent setComponent(android.content.ComponentName)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.SharedPreferences android.content.SharedPreferences.Editor edit()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.SharedPreferences java.lang.String getString(java.lang.String, java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.SharedPreferences java.util.Map&lt;java.lang.String,?&gt; getAll()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.SharedPreferences.Editor android.content.SharedPreferences.Editor clear()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.SharedPreferences.OnSharedPreferenceChangeListener void onSharedPreferenceChanged(android.content.SharedPreferences, java.lang.String) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.SharedPreferences.OnSharedPreferenceChangeListener void onSharedPreferenceChanged(android.content.SharedPreferences, java.lang.String) 1'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

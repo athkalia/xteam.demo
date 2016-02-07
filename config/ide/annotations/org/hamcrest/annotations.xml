@@ -1,0 +1,14 @@
+<root>
+    <item name='org.hamcrest.Description org.hamcrest.Description appendText(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.hamcrest.Matchers org.hamcrest.Matcher&lt;java.lang.Object&gt; instanceOf(java.lang.Class&lt;?&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.hamcrest.SelfDescribing void describeTo(org.hamcrest.Description) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.hamcrest.TypeSafeMatcher boolean matchesSafely(T) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

@@ -1,0 +1,5 @@
+<root>
+    <item name='android.telephony.SmsManager java.util.ArrayList&lt;java.lang.String&gt; divideMessage(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

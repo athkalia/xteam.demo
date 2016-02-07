@@ -1,0 +1,11 @@
+<root>
+    <item name='android.content.pm.PackageInfo versionName'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.pm.PackageManager android.content.pm.PackageInfo getPackageInfo(java.lang.String, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.pm.PackageManager java.util.List&lt;android.content.pm.ResolveInfo&gt; queryIntentActivities(android.content.Intent, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

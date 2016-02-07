@@ -1,0 +1,20 @@
+<root>
+    <item name='com.google.android.apps.common.testing.ui.espresso.DataInteraction com.google.android.apps.common.testing.ui.espresso.DataInteraction atPosition(java.lang.Integer)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.ui.espresso.DataInteraction com.google.android.apps.common.testing.ui.espresso.DataInteraction inAdapterView(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.ui.espresso.DataInteraction com.google.android.apps.common.testing.ui.espresso.ViewInteraction check(com.google.android.apps.common.testing.ui.espresso.ViewAssertion)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.ui.espresso.Espresso com.google.android.apps.common.testing.ui.espresso.DataInteraction onData(org.hamcrest.Matcher&lt;java.lang.Object&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.ui.espresso.Espresso com.google.android.apps.common.testing.ui.espresso.ViewInteraction onView(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.apps.common.testing.ui.espresso.ViewInteraction com.google.android.apps.common.testing.ui.espresso.ViewInteraction check(com.google.android.apps.common.testing.ui.espresso.ViewAssertion)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

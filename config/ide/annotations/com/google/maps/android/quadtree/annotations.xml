@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.maps.android.quadtree.PointQuadTree java.util.Collection&lt;T&gt; search(com.google.maps.android.geometry.Bounds)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

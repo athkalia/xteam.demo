@@ -1,0 +1,49 @@
+<root>
+    <item name='java.lang.CharSequence java.lang.String toString()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.Class java.lang.String getSimpleName()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.Class java.lang.reflect.Field getDeclaredField(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.Class java.lang.reflect.Field getField(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.Enum java.lang.String name()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.Object'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='java.lang.Object boolean equals(java.lang.Object) 0'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='java.lang.Object java.lang.Class&lt;?&gt; getClass()'>
+        <annotation name='java.lang.annotation.Deprecated'/>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.Object java.lang.String toString()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.String'>
+        <annotation name='java.lang.annotation.Deprecated'/>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.String java.lang.String format(java.lang.String, java.lang.Object...)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.String java.lang.String replace(java.lang.CharSequence, java.lang.CharSequence)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.String java.lang.String replaceAll(java.lang.String, java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.String java.lang.String replaceFirst(java.lang.String, java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.lang.String java.lang.String valueOf(java.lang.Object)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

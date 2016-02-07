@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.apps.common.testing.ui.espresso.assertion.ViewAssertions com.google.android.apps.common.testing.ui.espresso.ViewAssertion matches(org.hamcrest.Matcher&lt;? super android.view.View&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

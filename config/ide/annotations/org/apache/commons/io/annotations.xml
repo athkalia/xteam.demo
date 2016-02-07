@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.commons.io.IOUtils java.lang.String toString(java.io.InputStream, java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

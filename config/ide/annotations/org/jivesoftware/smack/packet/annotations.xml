@@ -1,0 +1,8 @@
+<root>
+    <item name='org.jivesoftware.smack.packet.XMPPError org.jivesoftware.smack.packet.XMPPError.Condition getCondition()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.packet.XMPPError org.jivesoftware.smack.packet.XMPPError.Type getType()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

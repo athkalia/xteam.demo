@@ -1,0 +1,8 @@
+<root>
+  <item name='com.google.common.base.MoreObjects.ToStringHelper com.google.common.base.MoreObjects.ToStringHelper add(java.lang.String, java.lang.Object)'>
+    <annotation name='javax.annotation.Nonnull'/>
+  </item>
+  <item name='com.google.common.base.MoreObjects.ToStringHelper java.lang.String toString()'>
+    <annotation name='javax.annotation.Nonnull'/>
+  </item>
+</root>

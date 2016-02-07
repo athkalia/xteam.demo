@@ -1,0 +1,7 @@
+# Ignore all intellij generated files
+*.iml
+/.idea/*
+
+# Ignore all gradle build files
+.gradle
+/build

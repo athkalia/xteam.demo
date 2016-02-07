@@ -1,0 +1,11 @@
+<root>
+    <item name='android.preference.PreferenceFragment android.preference.PreferenceManager getPreferenceManager()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.preference.PreferenceManager android.content.SharedPreferences getDefaultSharedPreferences(android.content.Context)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.preference.PreferenceManager android.content.SharedPreferences getSharedPreferences()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

@@ -1,0 +1,118 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.5.0'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+        classpath 'me.tatarka:gradle-retrolambda:3.2.5'
+        classpath 'me.tatarka.retrolambda.projectlombok:lombok.ast:0.2.3.a2'
+    }
+    // solves retrolambda lint problem. See https://github.com/evant/android-retrolambda-lombok
+    configurations.classpath.exclude group: 'com.android.tools.external.lombok'
+}
+apply plugin: 'com.android.application'
+apply plugin: 'android-apt' // annotation processor
+apply plugin: 'me.tatarka.retrolambda'
+
+apt { // Passing parameters to the annotation processor (for androidannotations)
+    arguments {
+        androidManifestFile variant.outputs[0]?.processResources?.manifestFile
+        generateFinalClasses 'false'
+        resourcePackageName android.defaultConfig.applicationId
+    }
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.2'
+    useLibrary 'org.apache.http.legacy' // Issue with robolectric requires this. See https://github.com/robolectric/robolectric/issues/1862
+    defaultConfig {
+        minSdkVersion 15 // todo chage to 1
+        targetSdkVersion 22
+        versionCode buildVersionCode()
+        versionName version
+        applicationId group
+        testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
+    }
+
+    testOptions {
+        unitTests.all {
+            systemProperty 'robolectric.logging.enabled', 'true'
+            systemProperty 'robolectric.logging', 'stdout'
+        }
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix '.develop'
+        }
+        release {
+            minifyEnabled true
+            proguardFiles 'config/proguard/proguard-project.txt'
+        }
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            output.outputFile = new File(
+                    output.outputFile.parent,
+                    output.outputFile.name.replace(".apk", "-${variant.versionName}.apk"))
+        }
+    }
+
+    lintOptions {
+        abortOnError true
+        checkAllWarnings true
+        ignoreWarnings false
+        checkReleaseBuilds true
+        warningsAsErrors true
+        disable 'GoogleAppIndexingWarning'
+        htmlReport true
+        xmlReport true
+    }
+
+//    packagingOptions { // Building complains about duplicate files. So we just pick the first one and ignore the rest.
+//        pickFirst 'META-INF/LICENSE.txt'
+//        pickFirst 'META-INF/NOTICE.txt'
+//    }              //todo
+
+    compileOptions {
+        encoding 'UTF-8'
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    dexOptions {
+        preDexLibraries true
+    }
+
+}
+
+retrolambda {
+    javaVersion JavaVersion.VERSION_1_6
+    incremental true
+}
+
+dependencies {
+    def supportLibrariesVersion = '23.0.1'
+    compile "com.android.support:design:$supportLibrariesVersion"
+    compile "com.android.support:appcompat-v7:$supportLibrariesVersion"
+    compile "com.android.support:support-annotations:$supportLibrariesVersion"
+    compile "com.android.support:recyclerview-v7:$supportLibrariesVersion"
+    compile "com.android.support:cardview-v7:$supportLibrariesVersion"
+    def androidAnnotationsVersion = '3.3.2'
+    apt "org.androidannotations:androidannotations:$androidAnnotationsVersion"
+    compile "org.androidannotations:androidannotations-api:$androidAnnotationsVersion"
+
+    // Unit tests.
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.mockito:mockito-all:2.0.2-beta'
+    testCompile 'org.robolectric:robolectric:3.0'
+
+    // Espresso tests.
+    def espressoVersion = '2.2.1'
+    androidTestCompile "com.android.support.test.espresso:espresso-core:$espressoVersion"
+    androidTestCompile "com.android.support.test.espresso:espresso-contrib:$espressoVersion"
+    androidTestCompile "com.android.support.test.espresso:espresso-intents:$espressoVersion"
+}

@@ -1,0 +1,5 @@
+<root>
+    <item name='org.jivesoftware.smack.provider.Provider E parse(org.xmlpull.v1.XmlPullParser, int) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

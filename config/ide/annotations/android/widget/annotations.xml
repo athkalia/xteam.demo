@@ -1,0 +1,41 @@
+<root>
+    <item name='android.widget.AbsListView.OnScrollListener void onScroll(android.widget.AbsListView, int, int, int) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.AbsListView.OnScrollListener void onScrollStateChanged(android.widget.AbsListView, int) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.AdapterView java.lang.Object getSelectedItem()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.ArrayAdapter android.widget.ArrayAdapter&lt;java.lang.CharSequence&gt; createFromResource(android.content.Context, int, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.CompoundButton.OnCheckedChangeListener void onCheckedChanged(android.widget.CompoundButton, boolean) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.EditText android.text.Editable getText()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.PopupMenu android.view.Menu getMenu()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.PopupMenu.OnMenuItemClickListener boolean onMenuItemClick(android.view.MenuItem) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.SearchView.OnQueryTextListener boolean onQueryTextChange(java.lang.String) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.SearchView.OnQueryTextListener boolean onQueryTextSubmit(java.lang.String) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.TextView java.lang.CharSequence getText()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.Toast android.widget.Toast makeText(android.content.Context, int, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.widget.Toast android.widget.Toast makeText(android.content.Context, java.lang.CharSequence, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

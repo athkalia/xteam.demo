@@ -1,0 +1,5 @@
+<root>
+    <item name='net.schmizz.sshj.SSHClient net.schmizz.sshj.xfer.scp.SCPFileTransfer newSCPFileTransfer()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

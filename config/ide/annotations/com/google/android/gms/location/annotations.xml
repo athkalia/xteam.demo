@@ -1,0 +1,26 @@
+<root>
+    <item name='com.google.android.gms.location.ActivityRecognition ActivityRecognitionApi'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.ActivityRecognitionApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; removeActivityUpdates(com.google.android.gms.common.api.GoogleApiClient, android.app.PendingIntent)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.ActivityRecognitionApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; requestActivityUpdates(com.google.android.gms.common.api.GoogleApiClient, long, android.app.PendingIntent)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.ActivityRecognitionResult com.google.android.gms.location.DetectedActivity getMostProbableActivity()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.ActivityRecognitionResult java.util.List&lt;com.google.android.gms.location.DetectedActivity&gt; getProbableActivities()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.LocationListener void onLocationChanged(android.location.Location) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.LocationSettingsResult com.google.android.gms.common.api.Status getStatus()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.SettingsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.location.LocationSettingsResult&gt; checkLocationSettings(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.location.LocationSettingsRequest)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

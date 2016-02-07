@@ -1,0 +1,11 @@
+<root>
+    <item name='android.support.v4.app.DialogFragment android.app.Dialog getDialog()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v4.app.Fragment android.content.res.Resources getResources()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v4.app.FragmentActivity android.support.v4.app.FragmentManager getSupportFragmentManager()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

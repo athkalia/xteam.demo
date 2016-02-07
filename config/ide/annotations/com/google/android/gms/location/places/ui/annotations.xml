@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.location.places.ui.PlacePicker com.google.android.gms.location.places.Place getPlace(android.content.Intent, android.content.Context)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.places.ui.PlacePicker.IntentBuilder android.content.Intent build(android.content.Context)'>
+      <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

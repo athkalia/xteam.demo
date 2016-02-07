@@ -1,0 +1,6 @@
+<root>
+    <item name='org.springframework.jdbc.core.JdbcTemplate T queryForObject(java.lang.String, java.lang.Class&lt;T&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+        <!-- NOTE: Returns null in case of SQL NULL. -->
+    </item>
+</root>

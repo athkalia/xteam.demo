@@ -1,0 +1,41 @@
+<root>
+    <item name='android.os.Build MODEL'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.ThreadPolicy.Builder android.os.StrictMode.ThreadPolicy build()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.ThreadPolicy.Builder android.os.StrictMode.ThreadPolicy.Builder detectAll()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.ThreadPolicy.Builder android.os.StrictMode.ThreadPolicy.Builder detectDiskReads()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.ThreadPolicy.Builder android.os.StrictMode.ThreadPolicy.Builder detectDiskWrites()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.ThreadPolicy.Builder android.os.StrictMode.ThreadPolicy.Builder detectNetwork()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.ThreadPolicy.Builder android.os.StrictMode.ThreadPolicy.Builder penaltyFlashScreen()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.ThreadPolicy.Builder android.os.StrictMode.ThreadPolicy.Builder penaltyLog()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.VmPolicy.Builder android.os.StrictMode.VmPolicy.Builder detectAll()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.VmPolicy.Builder android.os.StrictMode.VmPolicy.Builder detectLeakedClosableObjects()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.VmPolicy.Builder android.os.StrictMode.VmPolicy.Builder detectLeakedSqlLiteObjects()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.VmPolicy.Builder android.os.StrictMode.VmPolicy.Builder penaltyDeath()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.os.StrictMode.VmPolicy.Builder android.os.StrictMode.VmPolicy.Builder penaltyLog()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

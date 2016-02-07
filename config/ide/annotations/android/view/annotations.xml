@@ -1,0 +1,48 @@
+<root>
+    <item name='android.view.ContextThemeWrapper android.content.res.Resources getResources()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.LayoutInflater android.view.LayoutInflater from(android.content.Context)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.LayoutInflater android.view.View inflate(int, android.view.ViewGroup)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.Menu android.view.MenuItem findItem(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.MenuItem android.view.View getActionView()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.MenuItem java.lang.CharSequence getTitle()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.MenuItem.OnActionExpandListener boolean onMenuItemActionCollapse(android.view.MenuItem) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.MenuItem.OnActionExpandListener boolean onMenuItemActionExpand(android.view.MenuItem) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.MenuItem.OnMenuItemClickListener boolean onMenuItemClick(android.view.MenuItem) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.View android.content.Context getContext()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.View android.content.res.Resources getResources()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.View android.view.View findViewById(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+        <!-- NOTE: Returns the view that has the given id in the hierarchy or null. -->
+    </item>
+    <item name='android.view.View android.view.View inflate(android.content.Context, int, android.view.ViewGroup)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.ViewConfiguration android.view.ViewConfiguration get(android.content.Context)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.view.WindowManager android.view.Display getDefaultDisplay()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

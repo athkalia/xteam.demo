@@ -1,0 +1,17 @@
+<root>
+    <item name='com.google.maps.android.clustering.algo.Algorithm void addItem(T) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.maps.android.clustering.algo.Algorithm void addItems(java.util.Collection&lt;T&gt;) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.maps.android.clustering.algo.Algorithm void removeItem(T) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.maps.android.clustering.algo.NonHierarchicalDistanceBasedAlgorithm java.util.Collection&lt;T&gt; getItems()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.maps.android.clustering.algo.NonHierarchicalDistanceBasedAlgorithm java.util.Set&lt;? extends com.google.maps.android.clustering.Cluster&lt;T&gt;&gt; getClusters(double)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

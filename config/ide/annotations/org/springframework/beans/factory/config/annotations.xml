@@ -1,0 +1,14 @@
+<root>
+  <item name='org.springframework.beans.factory.config.BeanPostProcessor java.lang.Object postProcessAfterInitialization(java.lang.Object, java.lang.String) 0'>
+    <annotation name='javax.annotation.Nonnull'/>
+  </item>
+  <item name='org.springframework.beans.factory.config.BeanPostProcessor java.lang.Object postProcessAfterInitialization(java.lang.Object, java.lang.String) 1'>
+    <annotation name='javax.annotation.Nonnull'/>
+  </item>
+  <item name='org.springframework.beans.factory.config.BeanPostProcessor java.lang.Object postProcessBeforeInitialization(java.lang.Object, java.lang.String) 0'>
+    <annotation name='javax.annotation.Nonnull'/>
+  </item>
+  <item name='org.springframework.beans.factory.config.BeanPostProcessor java.lang.Object postProcessBeforeInitialization(java.lang.Object, java.lang.String) 1'>
+    <annotation name='javax.annotation.Nonnull'/>
+  </item>
+</root>

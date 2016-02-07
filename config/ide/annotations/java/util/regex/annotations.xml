@@ -1,0 +1,5 @@
+<root>
+    <item name='java.util.regex.Pattern java.lang.String quote(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

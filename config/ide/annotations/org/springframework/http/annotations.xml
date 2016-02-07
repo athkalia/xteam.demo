@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.http.HttpEntity org.springframework.http.HttpHeaders getHeaders()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

@@ -1,0 +1,91 @@
+<root>
+    <item name='android.app.Activity android.app.Application getApplication()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Activity android.app.FragmentManager getFragmentManager()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Activity android.view.LayoutInflater getLayoutInflater()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Activity android.view.Window getWindow()'>
+        <annotation name='javax.annotation.Nonnull'/>
+        <!-- NOTE: Returns null if the activity is not visual. -->
+    </item>
+    <item name='android.app.ActivityManager java.util.List&lt;android.app.ActivityManager.RunningTaskInfo&gt; getRunningTasks(int)'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='android.app.AlertDialog.Builder android.app.AlertDialog create()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Dialog android.view.Window getWindow()'>
+        <annotation name='javax.annotation.Nonnull'/>
+        <!-- NOTE: Returns null if the activity is not visual. -->
+    </item>
+    <item name='android.app.DialogFragment android.app.Dialog getDialog()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Fragment android.app.Activity getActivity()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Fragment android.app.FragmentManager getFragmentManager()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Fragment android.content.res.Resources getResources()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Fragment java.lang.String getString(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Fragment java.lang.String getString(int, java.lang.Object...)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.FragmentManager android.app.FragmentTransaction beginTransaction()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Instrumentation android.app.Activity startActivitySync(android.content.Intent)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Instrumentation android.content.Context getTargetContext()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.IntentService void onHandleIntent(android.content.Intent) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification build()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification getNotification()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder addAction(int, java.lang.CharSequence, android.app.PendingIntent)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setAutoCancel(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setCategory(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setContentIntent(android.app.PendingIntent)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setContentText(java.lang.CharSequence)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setContentTitle(java.lang.CharSequence)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setDefaults(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setPriority(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setSmallIcon(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.app.Notification.Builder android.app.Notification.Builder setVisibility(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

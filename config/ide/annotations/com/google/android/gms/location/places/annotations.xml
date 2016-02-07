@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.location.places.Place java.lang.CharSequence getAddress()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.location.places.Place java.lang.CharSequence getName()'>
+      <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

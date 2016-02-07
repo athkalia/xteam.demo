@@ -1,0 +1,14 @@
+<root>
+    <item name='org.jivesoftware.smack.util.XmlStringBuilder org.jivesoftware.smack.util.XmlStringBuilder append(java.lang.CharSequence)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.util.XmlStringBuilder org.jivesoftware.smack.util.XmlStringBuilder closeElement(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.util.XmlStringBuilder org.jivesoftware.smack.util.XmlStringBuilder halfOpenElement(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.jivesoftware.smack.util.XmlStringBuilder org.jivesoftware.smack.util.XmlStringBuilder rightAngleBracket()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

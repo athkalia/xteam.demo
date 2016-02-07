@@ -1,0 +1,15 @@
+
+
+In order to activate the external annotations for third party Java libraries defined in this folder please do the following:
+
+
+1) Ope the Project Structure (Shift + Ctrl + Alt + S).
+2) Navigate to Project Settings --> Libraries
+3) Individually and for all libraries listed below, individually and one by one, do Add (Alt + Insert) the path to this "annotations" folder.
+
+NOTE: During step.3 (Alt + Insert) you can navigate once to the "annotations" folder and then copy this local path to the "annotations" folder of yours and just
+      paste this for all every other library you add (Alt + Insert) the "annotations" folder to.
+
+Useful links:
+- IntelliJ IDEA 14.0.0 External Annotations: https://www.jetbrains.com/idea/help/external-annotations.html
+- IDEA-132487 (YouTrack issue raised to make the above process much simpler and automated): https://youtrack.jetbrains.com/issue/IDEA-132487

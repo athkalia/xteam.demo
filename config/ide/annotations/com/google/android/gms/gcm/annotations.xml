@@ -1,0 +1,68 @@
+<root>
+    <item name='com.google.android.gms.gcm.GcmNetworkManager com.google.android.gms.gcm.GcmNetworkManager getInstance(android.content.Context)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GcmTaskService int onRunTask(com.google.android.gms.gcm.TaskParams) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging com.google.android.gms.gcm.GoogleCloudMessaging getInstance(android.content.Context)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging java.lang.String register(java.lang.String...)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask build()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask.Builder setExecutionWindow(long, long)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask.Builder setPersisted(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask.Builder setRequiredNetwork(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask.Builder setRequiresCharging(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask.Builder setService(java.lang.Class&lt;? extends com.google.android.gms.gcm.GcmTaskService&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask.Builder setTag(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.OneoffTask.Builder com.google.android.gms.gcm.OneoffTask.Builder setUpdateCurrent(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask build()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setFlex(long)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setPeriod(long)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setPersisted(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setRequiredNetwork(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setRequiresCharging(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setService(java.lang.Class&lt;? extends com.google.android.gms.gcm.GcmTaskService&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setTag(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.PeriodicTask.Builder com.google.android.gms.gcm.PeriodicTask.Builder setUpdateCurrent(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.TaskParams java.lang.String getTag()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

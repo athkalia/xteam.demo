@@ -1,0 +1,11 @@
+<root>
+    <item name='org.joda.time.DateTime org.joda.time.DateTime now()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.joda.time.DateTime org.joda.time.DateTime parse(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.joda.time.DateTime org.joda.time.DateTime parse(java.lang.String, org.joda.time.format.DateTimeFormatter)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

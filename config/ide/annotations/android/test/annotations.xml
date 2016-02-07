@@ -1,0 +1,8 @@
+<root>
+    <item name='android.test.ActivityInstrumentationTestCase2 T getActivity()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.test.InstrumentationTestCase android.app.Instrumentation getInstrumentation()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

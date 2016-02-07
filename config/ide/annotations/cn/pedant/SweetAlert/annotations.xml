@@ -1,0 +1,17 @@
+<root>
+    <item name='cn.pedant.SweetAlert.SweetAlertDialog cn.pedant.SweetAlert.ProgressHelper getProgressHelper()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='cn.pedant.SweetAlert.SweetAlertDialog cn.pedant.SweetAlert.SweetAlertDialog setConfirmText(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='cn.pedant.SweetAlert.SweetAlertDialog cn.pedant.SweetAlert.SweetAlertDialog setContentText(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='cn.pedant.SweetAlert.SweetAlertDialog cn.pedant.SweetAlert.SweetAlertDialog setTitleText(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='cn.pedant.SweetAlert.SweetAlertDialog.OnSweetClickListener void onClick(cn.pedant.SweetAlert.SweetAlertDialog) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

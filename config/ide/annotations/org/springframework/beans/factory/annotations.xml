@@ -1,0 +1,8 @@
+<root>
+    <item name='org.springframework.beans.factory.BeanFactory T getBean(java.lang.Class&lt;T&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.springframework.beans.factory.BeanFactory T getBean(java.lang.Class&lt;T&gt;, java.lang.Object...)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

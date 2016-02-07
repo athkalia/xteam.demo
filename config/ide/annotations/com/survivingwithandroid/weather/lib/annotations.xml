@@ -1,0 +1,20 @@
+<root>
+    <item name='com.survivingwithandroid.weather.lib.WeatherClient.CityEventListener void onCityListRetrieved(java.util.List&lt;com.survivingwithandroid.weather.lib.model.City&gt;) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.WeatherClient.ClientBuilder com.survivingwithandroid.weather.lib.WeatherClient build()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.WeatherClient.ClientBuilder com.survivingwithandroid.weather.lib.WeatherClient.ClientBuilder attach(android.content.Context)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.WeatherClient.WeatherClientListener void onConnectionError(java.lang.Throwable) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.WeatherClient.WeatherClientListener void onWeatherError(com.survivingwithandroid.weather.lib.exception.WeatherLibException) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.WeatherClient.WeatherEventListener void onWeatherRetrieved(com.survivingwithandroid.weather.lib.model.CurrentWeather) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

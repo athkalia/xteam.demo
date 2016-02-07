@@ -1,0 +1,17 @@
+<root>
+    <item name='com.commonsware.cwac.wakeful.WakefulIntentService void doWakefulWork(android.content.Intent) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.commonsware.cwac.wakeful.WakefulIntentService.AlarmListener void scheduleAlarms(android.app.AlarmManager, android.app.PendingIntent, android.content.Context) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.commonsware.cwac.wakeful.WakefulIntentService.AlarmListener void scheduleAlarms(android.app.AlarmManager, android.app.PendingIntent, android.content.Context) 1'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.commonsware.cwac.wakeful.WakefulIntentService.AlarmListener void scheduleAlarms(android.app.AlarmManager, android.app.PendingIntent, android.content.Context) 2'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.commonsware.cwac.wakeful.WakefulIntentService.AlarmListener void sendWakefulWork(android.content.Context) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

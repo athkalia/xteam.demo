@@ -1,0 +1,8 @@
+<root>
+    <item name='android.support.test.espresso.matcher.BoundedMatcher boolean matchesSafely(S) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.test.espresso.matcher.ViewMatchers org.hamcrest.Matcher&lt;android.view.View&gt; withText(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

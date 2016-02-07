@@ -1,0 +1,41 @@
+<root>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog create()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setCancelable(boolean)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setNegativeButton(int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setNegativeButton(java.lang.CharSequence, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setNeutralButton(int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setNeutralButton(java.lang.CharSequence, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setOnCancelListener(android.content.DialogInterface.OnCancelListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setPositiveButton(int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setPositiveButton(java.lang.CharSequence, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setTitle(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setTitle(java.lang.CharSequence)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setView(android.view.View)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.support.v7.app.AlertDialog.Builder android.support.v7.app.AlertDialog.Builder setView(int)'>
+      <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

@@ -1,0 +1,11 @@
+<root>
+    <item name='android.graphics.drawable.Drawable android.graphics.Rect getBounds()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.graphics.drawable.Drawable void draw(android.graphics.Canvas) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.graphics.drawable.Drawable void setColorFilter(android.graphics.ColorFilter) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

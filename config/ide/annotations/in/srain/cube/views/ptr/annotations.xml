@@ -1,0 +1,14 @@
+<root>
+    <item name='in.srain.cube.views.ptr.PtrHandler boolean checkCanDoRefresh(in.srain.cube.views.ptr.PtrFrameLayout, android.view.View, android.view.View) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='in.srain.cube.views.ptr.PtrHandler boolean checkCanDoRefresh(in.srain.cube.views.ptr.PtrFrameLayout, android.view.View, android.view.View) 1'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='in.srain.cube.views.ptr.PtrHandler boolean checkCanDoRefresh(in.srain.cube.views.ptr.PtrFrameLayout, android.view.View, android.view.View) 2'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='in.srain.cube.views.ptr.PtrHandler void onRefreshBegin(in.srain.cube.views.ptr.PtrFrameLayout) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

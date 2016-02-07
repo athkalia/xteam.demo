@@ -1,0 +1,23 @@
+<root>
+    <item name='com.survivingwithandroid.weather.lib.model.City java.lang.String getId()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.model.CurrentWeather weather'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.model.Location java.lang.String getCity()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.model.Weather currentCondition'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.model.Weather location'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.model.Weather temperature'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.survivingwithandroid.weather.lib.model.Weather.Condition java.lang.String getIcon()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

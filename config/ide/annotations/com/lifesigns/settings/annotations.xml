@@ -1,0 +1,5 @@
+<root>
+    <item name='com.lifesigns.settings.Settings_ org.androidannotations.api.sharedpreferences.BooleanPrefField mapTiltingEnabled()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

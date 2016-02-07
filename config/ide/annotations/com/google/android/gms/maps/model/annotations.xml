@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.maps.model.CameraPosition target'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.maps.model.Marker java.lang.String getId()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

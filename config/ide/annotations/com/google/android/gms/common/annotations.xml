@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.common.GoogleApiAvailability android.app.Dialog getErrorDialog(android.app.Activity, int, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil android.app.Dialog getErrorDialog(int, android.app.Activity, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

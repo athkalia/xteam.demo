@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.maps.android.ui.IconGenerator android.graphics.Bitmap makeIcon()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.maps.android.ui.IconGenerator android.graphics.Bitmap makeIcon(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

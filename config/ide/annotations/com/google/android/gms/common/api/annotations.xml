@@ -1,0 +1,20 @@
+<root>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient build()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addApi(com.google.android.gms.common.api.Api&lt;? extends com.google.android.gms.common.api.Api.ApiOptions.NotRequiredOptions&gt;)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addConnectionCallbacks(com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addOnConnectionFailedListener(com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener void onConnectionFailed(com.google.android.gms.common.ConnectionResult) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.ResultCallback void onResult(R) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

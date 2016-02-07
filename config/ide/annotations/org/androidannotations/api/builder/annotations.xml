@@ -1,0 +1,5 @@
+<root>
+    <item name='org.androidannotations.api.builder.IntentBuilder I flags(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

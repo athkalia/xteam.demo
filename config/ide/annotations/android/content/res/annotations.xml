@@ -1,0 +1,23 @@
+<root>
+    <item name='android.content.res.AssetManager java.io.InputStream open(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.res.Resources android.graphics.drawable.Drawable getDrawable(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.res.Resources android.graphics.drawable.Drawable getDrawable(int, android.content.res.Resources.Theme)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.res.Resources android.util.DisplayMetrics getDisplayMetrics()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.res.Resources java.lang.String getQuantityString(int, int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.res.Resources java.lang.String getQuantityString(int, int, java.lang.Object...)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.content.res.Resources java.lang.String getString(int)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

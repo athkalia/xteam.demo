@@ -1,0 +1,8 @@
+<root>
+    <item name='org.mockito.Matchers java.lang.String anyString()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='org.mockito.Mockito org.mockito.stubbing.OngoingStubbing&lt;T&gt; when(T)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

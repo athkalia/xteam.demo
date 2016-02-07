@@ -1,0 +1,14 @@
+<root>
+    <item name='java.util.Collection java.util.stream.Stream&lt;E&gt; stream()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.util.Map V put(K, V)'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='java.util.Map.Entry K getKey()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='java.util.Optional T get()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

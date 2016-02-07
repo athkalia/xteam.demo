@@ -1,0 +1,20 @@
+<root>
+    <item name='com.google.android.gms.maps.GoogleMap com.google.android.gms.maps.UiSettings getUiSettings()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.maps.GoogleMap com.google.android.gms.maps.model.CameraPosition getCameraPosition()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.maps.GoogleMap.OnCameraChangeListener void onCameraChange(com.google.android.gms.maps.model.CameraPosition) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.maps.GoogleMap.OnMapClickListener void onMapClick(com.google.android.gms.maps.model.LatLng) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.maps.GoogleMap.OnMarkerClickListener boolean onMarkerClick(com.google.android.gms.maps.model.Marker) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='com.google.android.gms.maps.OnMapReadyCallback void onMapReady(com.google.android.gms.maps.GoogleMap) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

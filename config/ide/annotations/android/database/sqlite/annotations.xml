@@ -1,0 +1,20 @@
+<root>
+    <item name='android.database.sqlite.SQLiteDatabase android.database.Cursor query(java.lang.String, java.lang.String[], java.lang.String, java.lang.String[], java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.database.sqlite.SQLiteDatabase android.database.Cursor rawQuery(java.lang.String, java.lang.String[])'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.database.sqlite.SQLiteOpenHelper android.database.sqlite.SQLiteDatabase getReadableDatabase()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.database.sqlite.SQLiteOpenHelper android.database.sqlite.SQLiteDatabase getWritableDatabase()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.database.sqlite.SQLiteOpenHelper void onCreate(android.database.sqlite.SQLiteDatabase) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+    <item name='android.database.sqlite.SQLiteOpenHelper void onUpgrade(android.database.sqlite.SQLiteDatabase, int, int) 0'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

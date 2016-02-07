@@ -1,0 +1,5 @@
+<root>
+    <item name='com.isseiaoki.simplecropview.CropImageView android.graphics.Bitmap getCroppedBitmap()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

@@ -1,0 +1,5 @@
+<root>
+    <item name='com.fasterxml.uuid.impl.TimeBasedGenerator java.util.UUID generate()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

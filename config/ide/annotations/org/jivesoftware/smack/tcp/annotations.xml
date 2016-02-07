@@ -1,0 +1,5 @@
+<root>
+    <item name='org.jivesoftware.smack.tcp.XMPPTCPConnectionConfiguration.Builder org.jivesoftware.smack.tcp.XMPPTCPConnectionConfiguration build()'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>

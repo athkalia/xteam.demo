@@ -1,0 +1,5 @@
+<root>
+    <item name='org.joda.time.format.DateTimeFormat org.joda.time.format.DateTimeFormatter forPattern(java.lang.String)'>
+        <annotation name='javax.annotation.Nonnull'/>
+    </item>
+</root>
