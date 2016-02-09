@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="main_activity__search_label">SEARCH</string>
+    <string name="main_activity__only_show_stock_label">ONLY SHOW ITEMS CURRENTLY IN STOCK</string>
+    <string name="main_activity_card_view_buy_now_button_text">BUY NOW!</string>
+
+</resources>

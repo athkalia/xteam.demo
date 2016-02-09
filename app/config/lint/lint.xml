@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+
+    <!--Ignore known retrofit 2 issue with lint. See https://github.com/square/okio/issues/58-->
+    <!--<issue id="InvalidPackage">-->
+    <!--<ignore regexp=".*okio.*"/>-->
+    <!--<ignore regexp=".*retrofit.*"/>-->
+    <!--</issue>-->
+    <!--todo-->
+
+</lint>

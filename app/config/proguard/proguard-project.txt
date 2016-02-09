@@ -80,7 +80,15 @@
 
 # Application classes that will be serialized/deserialized over Gson. todo
 
--dontwarn org.springframework.**#todo am i keeping this ?
+# // PROGUARD CONFIG FOR ANDROID ANNOTATIONS // ****************************************************************************************************************
+
+-dontwarn org.springframework.**
 
 # // PROGUARD CONFIG FOR RETROLAMBDA // ************************************************************************************************************************
 -dontwarn java.lang.invoke.*
+
+# // PROGUARD CONFIG FOR RETROFIT // ***************************************************************************************************************************
+-dontwarn retrofit2.**
+-keep class retrofit2.** { *; }
+-keepattributes Signature
+-keepattributes Exceptions
